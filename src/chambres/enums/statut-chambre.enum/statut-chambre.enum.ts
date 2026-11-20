@@ -1,0 +1,5 @@
+export enum StatutChambreEnum {
+  DISPONIBLE = 'DISPONIBLE',
+  MAINTENANCE = 'MAINTENANCE',
+  HORS_SERVICE = 'HORS_SERVICE',
+}
